@@ -1,3 +1,6 @@
-# java-explore-with-me
+# Explore With Me
 Repository for ExploreWithMe graduation project.
-https://github.com/MatveyStrakhov/java-explore-with-me/pull/3
+# Deployment
+Install Docker
+Build project
+Run docker-compose.yml
